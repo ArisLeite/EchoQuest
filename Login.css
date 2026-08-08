@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&family=Inter:wght@300;400;500;700&display=swap');
+
+body{
+    background-color: rgb(1, 1, 48);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0%;
+}
+
+title{color: blueviolet;
+    font-family: 'Germania One', serif !important;
+}
+
+button{background-color: darkgoldenrod;
+    color: aliceblue ;
+    display: block;
+    margin-top: 40px;
+    border: none;
+    padding: 15px 32px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 250px;
+    height: 60px;
+    font-family: 'Germania One', serif !important;
+    font-size: 20px;
+    transition: all 0.3s ease;
+}
+
+button:hover{
+    transform: scale(1.05);
+    transform: translateY(-4px);
+}
+
+a{text-decoration: none;}
+
+h1{color: blueviolet;
+    text-align: center;
+    font-family: 'Germania One', serif !important;
+    font-size: 80px;
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
+
+h2{color: mediumpurple;
+    text-align: center;
+    font-family: 'Germania One', serif !important;
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+h3{color: mediumpurple;
+    text-align: center;
+    font-family: 'Germania One', serif !important;
+    font-size: 40px;
+    margin-top: 0;
+}
+
+p{color: snow;
+    text-align: center;
+    font-family: 'Inter', serif !important;
+    font-size: 20px;
+    max-width: 700px;
+    margin-bottom: 10px;
+}
+
+textarea{color: rgb(42, 4, 131);
+    font-family: 'Germania One', serif !important;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 30px;
+    resize: none;
+    border-radius: 10px;
+}
+
