@@ -1,6 +1,8 @@
 # 📜 EchoQuest ⚔️
 
-> **Every Study Session is a New Quest.**
+> **Every Study Session is a New Quest.** <br>
+
+[Live Demo](https://arisleite.github.io/EchoQuest/)
 
 EchoQuest is a web application designed to help students organize their study routine, maintain focus and track their progress through a gamified experience inspired by RPG games. <br>
 The project is currently **under development**.
@@ -67,6 +69,10 @@ Through EchoQuest, I am practicing:
 * Git and GitHub
 * Project organization
 * Problem solving
+
+## Explore the current version of EchoQuest:
+
+[Access EchoQuest](https://arisleite.github.io/EchoQuest/)
 
 ## Author:
 
